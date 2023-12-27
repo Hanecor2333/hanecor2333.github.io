@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap:https://hanecor2333.github.io/sitemap.xml
